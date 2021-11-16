@@ -1,0 +1,13 @@
+E:\Visual Studio Code\IfStatements\marks\bin\Debug\netcoreapp3.1\marks.exe
+E:\Visual Studio Code\IfStatements\marks\bin\Debug\netcoreapp3.1\marks.deps.json
+E:\Visual Studio Code\IfStatements\marks\bin\Debug\netcoreapp3.1\marks.runtimeconfig.json
+E:\Visual Studio Code\IfStatements\marks\bin\Debug\netcoreapp3.1\marks.runtimeconfig.dev.json
+E:\Visual Studio Code\IfStatements\marks\bin\Debug\netcoreapp3.1\marks.dll
+E:\Visual Studio Code\IfStatements\marks\bin\Debug\netcoreapp3.1\marks.pdb
+E:\Visual Studio Code\IfStatements\marks\obj\Debug\netcoreapp3.1\marks.csprojAssemblyReference.cache
+E:\Visual Studio Code\IfStatements\marks\obj\Debug\netcoreapp3.1\marks.AssemblyInfoInputs.cache
+E:\Visual Studio Code\IfStatements\marks\obj\Debug\netcoreapp3.1\marks.AssemblyInfo.cs
+E:\Visual Studio Code\IfStatements\marks\obj\Debug\netcoreapp3.1\marks.csproj.CoreCompileInputs.cache
+E:\Visual Studio Code\IfStatements\marks\obj\Debug\netcoreapp3.1\marks.dll
+E:\Visual Studio Code\IfStatements\marks\obj\Debug\netcoreapp3.1\marks.pdb
+E:\Visual Studio Code\IfStatements\marks\obj\Debug\netcoreapp3.1\marks.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\Visual Studio Code\IfStatements\A-1\bin\Debug\netcoreapp3.1\A-1.exe
+E:\Visual Studio Code\IfStatements\A-1\bin\Debug\netcoreapp3.1\A-1.deps.json
+E:\Visual Studio Code\IfStatements\A-1\bin\Debug\netcoreapp3.1\A-1.runtimeconfig.json
+E:\Visual Studio Code\IfStatements\A-1\bin\Debug\netcoreapp3.1\A-1.runtimeconfig.dev.json
+E:\Visual Studio Code\IfStatements\A-1\bin\Debug\netcoreapp3.1\A-1.dll
+E:\Visual Studio Code\IfStatements\A-1\bin\Debug\netcoreapp3.1\A-1.pdb
+E:\Visual Studio Code\IfStatements\A-1\obj\Debug\netcoreapp3.1\A-1.csprojAssemblyReference.cache
+E:\Visual Studio Code\IfStatements\A-1\obj\Debug\netcoreapp3.1\A-1.AssemblyInfoInputs.cache
+E:\Visual Studio Code\IfStatements\A-1\obj\Debug\netcoreapp3.1\A-1.AssemblyInfo.cs
+E:\Visual Studio Code\IfStatements\A-1\obj\Debug\netcoreapp3.1\A-1.csproj.CoreCompileInputs.cache
+E:\Visual Studio Code\IfStatements\A-1\obj\Debug\netcoreapp3.1\A-1.dll
+E:\Visual Studio Code\IfStatements\A-1\obj\Debug\netcoreapp3.1\A-1.pdb
+E:\Visual Studio Code\IfStatements\A-1\obj\Debug\netcoreapp3.1\A-1.genruntimeconfig.cache
