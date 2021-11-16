@@ -1,0 +1,13 @@
+E:\Visual Studio Code\Arrays\jagged\bin\Debug\netcoreapp3.1\jagged.exe
+E:\Visual Studio Code\Arrays\jagged\bin\Debug\netcoreapp3.1\jagged.deps.json
+E:\Visual Studio Code\Arrays\jagged\bin\Debug\netcoreapp3.1\jagged.runtimeconfig.json
+E:\Visual Studio Code\Arrays\jagged\bin\Debug\netcoreapp3.1\jagged.runtimeconfig.dev.json
+E:\Visual Studio Code\Arrays\jagged\bin\Debug\netcoreapp3.1\jagged.dll
+E:\Visual Studio Code\Arrays\jagged\bin\Debug\netcoreapp3.1\jagged.pdb
+E:\Visual Studio Code\Arrays\jagged\obj\Debug\netcoreapp3.1\jagged.csprojAssemblyReference.cache
+E:\Visual Studio Code\Arrays\jagged\obj\Debug\netcoreapp3.1\jagged.AssemblyInfoInputs.cache
+E:\Visual Studio Code\Arrays\jagged\obj\Debug\netcoreapp3.1\jagged.AssemblyInfo.cs
+E:\Visual Studio Code\Arrays\jagged\obj\Debug\netcoreapp3.1\jagged.csproj.CoreCompileInputs.cache
+E:\Visual Studio Code\Arrays\jagged\obj\Debug\netcoreapp3.1\jagged.dll
+E:\Visual Studio Code\Arrays\jagged\obj\Debug\netcoreapp3.1\jagged.pdb
+E:\Visual Studio Code\Arrays\jagged\obj\Debug\netcoreapp3.1\jagged.genruntimeconfig.cache
