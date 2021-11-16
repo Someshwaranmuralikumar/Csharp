@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RigtAngle/1.0.0": {
+        "runtime": {
+          "RigtAngle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RigtAngle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

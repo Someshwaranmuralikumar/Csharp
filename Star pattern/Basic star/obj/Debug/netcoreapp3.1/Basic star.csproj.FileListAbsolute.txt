@@ -1,0 +1,13 @@
+E:\Visual Studio Code\Star pattern\Basic star\bin\Debug\netcoreapp3.1\Basic star.exe
+E:\Visual Studio Code\Star pattern\Basic star\bin\Debug\netcoreapp3.1\Basic star.deps.json
+E:\Visual Studio Code\Star pattern\Basic star\bin\Debug\netcoreapp3.1\Basic star.runtimeconfig.json
+E:\Visual Studio Code\Star pattern\Basic star\bin\Debug\netcoreapp3.1\Basic star.runtimeconfig.dev.json
+E:\Visual Studio Code\Star pattern\Basic star\bin\Debug\netcoreapp3.1\Basic star.dll
+E:\Visual Studio Code\Star pattern\Basic star\bin\Debug\netcoreapp3.1\Basic star.pdb
+E:\Visual Studio Code\Star pattern\Basic star\obj\Debug\netcoreapp3.1\Basic star.csprojAssemblyReference.cache
+E:\Visual Studio Code\Star pattern\Basic star\obj\Debug\netcoreapp3.1\Basic star.AssemblyInfoInputs.cache
+E:\Visual Studio Code\Star pattern\Basic star\obj\Debug\netcoreapp3.1\Basic star.AssemblyInfo.cs
+E:\Visual Studio Code\Star pattern\Basic star\obj\Debug\netcoreapp3.1\Basic star.csproj.CoreCompileInputs.cache
+E:\Visual Studio Code\Star pattern\Basic star\obj\Debug\netcoreapp3.1\Basic star.dll
+E:\Visual Studio Code\Star pattern\Basic star\obj\Debug\netcoreapp3.1\Basic star.pdb
+E:\Visual Studio Code\Star pattern\Basic star\obj\Debug\netcoreapp3.1\Basic star.genruntimeconfig.cache
