@@ -1,0 +1,13 @@
+E:\Visual Studio Code\Classes\A1\obj\Debug\netcoreapp3.1\A1.csprojAssemblyReference.cache
+E:\Visual Studio Code\Classes\A1\obj\Debug\netcoreapp3.1\A1.AssemblyInfoInputs.cache
+E:\Visual Studio Code\Classes\A1\obj\Debug\netcoreapp3.1\A1.AssemblyInfo.cs
+E:\Visual Studio Code\Classes\A1\obj\Debug\netcoreapp3.1\A1.csproj.CoreCompileInputs.cache
+E:\Visual Studio Code\Classes\A1\bin\Debug\netcoreapp3.1\A1.exe
+E:\Visual Studio Code\Classes\A1\bin\Debug\netcoreapp3.1\A1.deps.json
+E:\Visual Studio Code\Classes\A1\bin\Debug\netcoreapp3.1\A1.runtimeconfig.json
+E:\Visual Studio Code\Classes\A1\bin\Debug\netcoreapp3.1\A1.runtimeconfig.dev.json
+E:\Visual Studio Code\Classes\A1\bin\Debug\netcoreapp3.1\A1.dll
+E:\Visual Studio Code\Classes\A1\bin\Debug\netcoreapp3.1\A1.pdb
+E:\Visual Studio Code\Classes\A1\obj\Debug\netcoreapp3.1\A1.dll
+E:\Visual Studio Code\Classes\A1\obj\Debug\netcoreapp3.1\A1.pdb
+E:\Visual Studio Code\Classes\A1\obj\Debug\netcoreapp3.1\A1.genruntimeconfig.cache
